@@ -1,9 +1,9 @@
 # Site settings
 title: Dimitrov's Blog
 email: stefan@dimitrov.li
-description: "your site description"
-baseurl: "" 
-url: "http://elwebmaster.github.io"
+description: "Your privacy, is Your responsibility."
+baseurl: "/" 
+url: "https://elwebmaster.github.io"
 angular_version: 1.2.21
 bootstrap_version: 3.2.0
 jquery_version: 1.11.1
