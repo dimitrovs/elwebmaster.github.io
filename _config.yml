@@ -2,7 +2,7 @@
 title: Dimitrov's Blog
 email: stefan@dimitrov.li
 description: "your site description"
-baseurl: "/" 
+baseurl: "" 
 url: "http://elwebmaster.github.io"
 angular_version: 1.2.21
 bootstrap_version: 3.2.0
